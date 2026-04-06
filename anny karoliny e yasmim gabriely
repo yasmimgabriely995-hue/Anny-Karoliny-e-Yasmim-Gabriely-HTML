@@ -1,0 +1,44 @@
+<html>
+<h1> meus hobbies e horários </h1>
+<ul>
+    <li> dormir </li>
+    <li> comer </li>
+    <li> dançar </li>
+    <li> jogar badminton </li>
+    <li> academia </li>
+</ul>
+
+ <table>
+ <tr>
+    <th> Disciplinas</th>
+    <th> Professores </th>
+    <th> Horários</th>
+ </tr>
+ <tr>
+    <td> Biologia</td>
+    <Td> Simone </Td>
+    <td> 07:30 </td>
+ </tr>
+ <tr>
+     <td> Quimica</td>
+     <td> Ewerton</td>
+     <td> 08:30 </td>
+ </tr>
+ <Tr>
+    <td> Matemática</td>
+    <td> Kacio </td>
+    <td> 09:30</td>
+ </Tr>
+ <tr>
+    <td> Física</td>
+    <td> Iane </td>
+    <td> 10:30</td>
+ </tr>
+ <tr>
+    <td>Português</td>
+    <td>Alessandra</td>
+    <td> 11:30</td>
+ </tr>
+ </table>
+</html>
+    

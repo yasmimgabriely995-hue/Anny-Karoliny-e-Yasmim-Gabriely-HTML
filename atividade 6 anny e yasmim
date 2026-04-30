@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 16px;
+}
+.texto {
+    color: green;
+
+}
+#principal {
+    background-color: #f0f0f0;
+    padding: 100px;
+}
+p.destaque {
+    font-weight: bold;
+    color: rgb(0, 255, 26);
+}
+.caixa.transparente {
+    background-color: rgba(0, 0, 255, 0.5);
+    padding: 100px;
+}
+.borda {
+    border: 3px solid #FF5733;
+}
+.fundo {
+    background-color: #000000;
+    color: white;
+    padding: 100px;
+     
+}
+</style>
+
+</head>
+<body>
+
+<h1 id="principal">Desafio dos Seletores</h1>
+<p class="texto">Parágrafo 1</p>
+ <p class="texto destaque">Parágrafo 2</p>
+  <p>Parágrafo 3</p>
+<div class="fundo borda">
+    <div class="caixa transparente">
+    </div>
+</div>
+
+</body>
+</html>
